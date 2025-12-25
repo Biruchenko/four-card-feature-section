@@ -1,0 +1,14 @@
+:root {
+	/* Colors */
+	--red-color: hsl(0, 78%, 62%);
+	--cyan-color: hsl(180, 62%, 55%);
+	--orange-color: hsl(34, 97%, 64%);
+	--blue-color: hsl(212, 86%, 64%);
+	--grey-color-500: hsl(234, 12%, 34%);
+	--grey-color-400: hsl(212, 6%, 44%);
+	--white-color: hsl(0, 0%, 100%);
+	--light-white-color: hsl(0, 0%, 98%);
+
+	/* Typography */
+	--font-main: "Poppins", sans-serif;
+}
